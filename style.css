@@ -1,0 +1,57 @@
+﻿
+.background-img, .open-source, .profile_img, .front-end-development {
+    height: auto;
+}
+.background-img {
+    max-width: 150%;
+    background-size: cover;
+    background-image: url('images/img.jpeg');
+}
+.intro_c {
+    padding: 250px 0px 270px 0px;
+    color: white;
+}
+.intro_h {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 55px;
+}
+.intro_b, .profile_t_t, .display-4, .f-e-d-text, .o-s-text {
+    font-family: 'Comfortaa', cursive;  
+}
+.intro_b, .profile_t_h {
+    font-size: 35px;
+}
+.scroll-down {
+    margin-bottom: 0px;
+}
+.profile {
+    background-color: #F5F5F5;
+}
+.profile_img {
+    padding: 50px 0px 10px 0px;
+    max-width: 20%;
+}
+.profile_t_h {
+    font-family: 'Josefin Sans', sans-serif;
+}
+.profile_t_t {
+    font-size: 25px;
+}
+.profile_t_t {
+    padding-bottom: 50px;
+}
+.what-i-do {
+    margin-top: 100px;
+}
+.what-i-do-images {
+    padding: 50px 0px 20px 0px;
+    width: 50%;
+}
+
+.what-i-do-text {
+    padding:0px 75px;
+}
+
+/*font-family: 'Josefin Sans', sans-serif;
+font-family: 'Acme', sans-serif;
+font-family: 'Comfortaa', cursive;*/
